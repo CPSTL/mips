@@ -4,22 +4,36 @@
 ```
 MIP#: 12
 Title: Collateral and Risk Parameter Management
-Author(s): Charles St.Louis (@CPSTL) and Rune Christensen (@Rune23) 
+Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Type: Technical, Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP0, MIP3, MIP7, MIP10, MIP11
 Replaces: n/a
 ```  
 
-### MIP11 Components
-**MIP12c1:** Domain Team Requirements for Onboarding Collateral Type to the Maker Protocol  
-**MIP12c2:** Proposing New Risk Parameters, Oracles, and Collateral Adapters  
-**MIP12c3:** Collateral Type Checklist (Governance)  
+## References
+No referenced materials.
 
-## Summary
+## Sentence Summary
+
+MIP12 defines the domain team and documentation requirements for adding or changing collateral packages in the Maker Protocol.
+
+## Paragraph Summary
 
 This proposal defines the documentation requirements for the onboarding of a new collateral type to the Maker Protocol, more specifically, the risk teams' objectives and requirements to deliver it in a unified package risk construct.
+
+## Component Summary
+
+**MIP12c1: Domain Team Requirements for Onboarding Collateral Type to the Maker Protocol**  
+Lists the required and optional domain teams involved in onboarding a collateral type to the Maker Protocol.
+
+**MIP12c2: Proposing New Risk Parameters, Oracles, and Collateral Adapters**  
+A process component that defines a method, a template and the requirements for proposing new risk parameters, oracles or collateral adaptors.
+
+**MIP12c3: Collateral Type Checklist (Governance)**  
+Defines a checklist of actions that must be completed before and after governance approval of a collateral type.
 
 ## Motivation
 
